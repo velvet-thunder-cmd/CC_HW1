@@ -1,6 +1,5 @@
 
 
-On Sat, Oct 9, 2021 at 11:54 PM Arya Vishnu <aryavishnu1828@gmail.com> wrote:
 from __future__ import print_function
 import argparse
 import json
